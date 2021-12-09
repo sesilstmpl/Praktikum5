@@ -38,7 +38,7 @@ jika user menginput kode l, maka program akan menunjukkan tabel dengan tidak ada
 
 ![gambar 7](gambar/ss7.png)
 
-jika menginput kode t, maka user diarahkan untuk menambahkan data mahasiswa yang terdiri atas nama, nim, nilai tugas, nilai uts, nilai tugas, lalu program akan memproses dari nilai tersebut, 30% dari nilai tugas, misalnya disini saya menambahkan 2 data mahasiswa yaitu Cecilia dan Angga dengan nilai seperti yang tertera dibawah ini
+jika menginput kode t, maka user diarahkan untuk menambahkan data mahasiswa yang terdiri atas nama, nim, nilai tugas, nilai uts, nilai tugas, lalu program akan memproses dari nilai tersebut, 30% dari nilai tugas, 35% dari nilai UTS dan 35% dari nilai UAS, misalnya disini saya menambahkan 2 data mahasiswa yaitu Cecilia dan Angga dengan nilai seperti yang tertera dibawah ini
 
 ![gambar 8](gambar/ss8.png)
 
@@ -61,3 +61,7 @@ jika user ingin melihat data salah satu mahasiswa, maka user menginput kode c, l
 lalu jika ingin keluar dari programnya, user menginput kode k dan program telah selesai :)
 
 ### FLowchart
+
+![gambar 13](gambar/flowchart.png)
+
+# SELESAI :)
